@@ -3,7 +3,7 @@ Brain tumors, whether benign or malignant, necessitate accurate and timely ident
 
 ### Project 
 
-This project envision a two stage machine learning pipepline that 1) Classifies whether a tumor exists type of tumor and 2) Detects the areas in the image where there is cancerous brain tissue. 
+This project envisions a two-stage machine learning pipeline for brain tumor analysis. Stage 1: Tumor classification (presence/type). Stage 2: Cancerous tissue localization within the scan.
 
 ![](https://github.com/mugithi/msaai-vision/blob/main/assets/two_stage.jpg?raw=true)
 
